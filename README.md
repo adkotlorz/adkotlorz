@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Adam]! 
+# <div align="center">👋 Hi, I'm Adam </div>
 
 ### 💻 Software Developer |  Full-stack Engineer | ML/AI Engineer
 
