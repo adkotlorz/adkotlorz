@@ -3,6 +3,7 @@
 ### 💻 Software Developer |  Full-stack Engineer | ML/AI Engineer
 
 I'm a passionate software developer with a strong interest in Web Development, Mobile Apps and training AI models. <br> I love solving problems, building innovative solutions, and learning new technologies. <br> Below you'll find a selection of skills.
+
 </div>
 ---
 
