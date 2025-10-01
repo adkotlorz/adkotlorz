@@ -65,12 +65,14 @@ I'm a passionate software developer with a strong interest in Web Development, M
 ![Bitbucket Pipelines](https://img.shields.io/badge/Bitbucket_Pipelines-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)
 ![ClickUp](https://img.shields.io/badge/ClickUp-7B68EE?style=for-the-badge&logo=clickup&logoColor=white)
 
-### ⚡ No-Code & Automation:
+### ⚡ No-Code & Low-Code:
 
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![Webflow](https://img.shields.io/badge/Webflow-4353FF?style=for-the-badge&logo=webflow&logoColor=white)
+![Bubble](https://img.shields.io/badge/Bubble-1B1F23?style=for-the-badge&logo=bubble&logoColor=white)
 ![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white)
-![Make](https://img.shields.io/badge/Make-2F8CBB?style=for-the-badge&logo=make&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-8D4AFF?style=for-the-badge&logo=n8n&logoColor=white)
-![Pipedream](https://img.shields.io/badge/Pipedream-0EAD69?style=for-the-badge&logo=pipedream&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-0C7B77?style=for-the-badge&logo=n8n&logoColor=white)
+![Pipedream](https://img.shields.io/badge/Pipedream-4B32C3?style=for-the-badge&logo=pipedream&logoColor=white)
 
 ---
 
