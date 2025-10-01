@@ -2,9 +2,7 @@
 
 ### 💻 Software Developer | Full-stack Engineer | ML/AI Engineer
 
-I'm a passionate software developer with a strong interest in Web Development, Mobile Apps and training AI models. <br> 
-I love solving problems, building innovative solutions, and learning new technologies. <br> 
-Below you'll find a selection of skills.
+I'm a passionate software developer with a strong interest in Web Development, Mobile Apps and training AI models. <br> I love solving problems, building innovative solutions, and learning new technologies. <br> Below you'll find a selection of skills.
 
 </div>
 
@@ -21,6 +19,7 @@ Below you'll find a selection of skills.
 
 ### ⚛️ Frameworks:
 
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
@@ -31,9 +30,9 @@ Below you'll find a selection of skills.
 
 ### 🗄️ Databases & APIs:
 
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=rest&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
@@ -50,13 +49,13 @@ Below you'll find a selection of skills.
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Styled Components](https://img.shields.io/badge/Styled--Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 
-### 🛠️ Tools:
+### 🔧 Tools:
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![WebStorm](https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=webstorm&logoColor=white)
-![Google Cloud Platform](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 
 ### 🤝 Collaboration & CI/CD:
 
@@ -66,21 +65,17 @@ Below you'll find a selection of skills.
 ![Bitbucket Pipelines](https://img.shields.io/badge/Bitbucket_Pipelines-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)
 ![ClickUp](https://img.shields.io/badge/ClickUp-7B68EE?style=for-the-badge&logo=clickup&logoColor=white)
 
----
+### ⚡ No-Code & Automation:
 
-### ⚡ No-Code & Low-Code:
-
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-![Webflow](https://img.shields.io/badge/Webflow-4353FF?style=for-the-badge&logo=webflow&logoColor=white)
-![Bubble](https://img.shields.io/badge/Bubble-1B1F23?style=for-the-badge&logo=bubble&logoColor=white)
 ![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-0C7B77?style=for-the-badge&logo=n8n&logoColor=white)
-![Pipedream](https://img.shields.io/badge/Pipedream-4B32C3?style=for-the-badge&logo=pipedream&logoColor=white)
+![Make](https://img.shields.io/badge/Make-2F8CBB?style=for-the-badge&logo=make&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-8D4AFF?style=for-the-badge&logo=n8n&logoColor=white)
+![Pipedream](https://img.shields.io/badge/Pipedream-0EAD69?style=for-the-badge&logo=pipedream&logoColor=white)
 
 ---
 
 ## 📫 Get in Touch
 
-- 📧 Email: **ad.kotlorz@gmail.com**
+- Email: **ad.kotlorz@gmail.com**
 
 ---
